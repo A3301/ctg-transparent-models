@@ -1,0 +1,40 @@
+{
+  "title": "Code for: Expert-referenced interpretability in intrapartum cardiotocography models for fetal acidaemia",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Code, pre-specified analysis plans, run log, aggregate results and the released transparent model for the paper that evaluates whether intrapartum cardiotocography (CTG) models that discriminate fetal acidaemia well also agree with held-out (CTU-UHB) and external (FHRMA) expert event annotations. On CTU-UHB, an end-to-end neuro-symbolic model with a probabilistic FIGO 2015 logic layer, separately trained and rule-guided event detectors, a rule-based FIGO extractor, transparent additive and linear models of deterministic FIGO, heart-rate-variability and signal-quality variables, and a deep CNN ensemble are compared under one record-level nested cross-validation protocol, with expert events from CTU-UHB and the external FHRMA consensus set.",
+  "keywords": [
+    "cardiotocography",
+    "fetal acidaemia",
+    "interpretable machine learning",
+    "neuro-symbolic AI",
+    "concept leakage",
+    "heart rate variability",
+    "expert annotation"
+  ],
+  "creators": [
+    {
+      "name": "Akdağlı, Ali",
+      "affiliation": "Department of Electrical and Electronics Engineering, Faculty of Engineering, Mersin University, Mersin, Türkiye",
+      "orcid": "0000-0003-3312-992X"
+    },
+    {
+      "name": "Yanık, Hüseyin",
+      "affiliation": "Department of Information Systems and Technologies, Erdemli School of Applied Technology and Management, Mersin University, Mersin, Türkiye",
+      "orcid": "0000-0002-4386-5536"
+    },
+    {
+      "name": "Yıldız, Ali",
+      "affiliation": "Department of Electrical and Electronics Engineering, Faculty of Engineering, Mersin University, Mersin, Türkiye",
+      "orcid": "0000-0003-3904-6017"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.13026/C22013",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ]
+}

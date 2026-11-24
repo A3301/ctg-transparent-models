@@ -1,0 +1,11 @@
+rule,weight_mean
+leak,0.05143363
+pathological,0.10185507
+suspicious,0.10534446
+rep_late,0.10587218
+rep_variable,0.10578977
+prolonged,0.1056639
+tachycardia,0.10634241
+no_accel,0.10550611
+reduced_variability,0.10609487
+rep_any,0.105622485

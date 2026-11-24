@@ -1,0 +1,176 @@
+{
+  "n_records": 552,
+  "header_vs_signal_len_mismatch": 0,
+  "duration_min": {
+    "count": 552.0,
+    "mean": 74.16,
+    "std": 7.56,
+    "min": 60.0,
+    "25%": 70.0,
+    "50%": 71.71,
+    "75%": 80.0,
+    "max": 90.08
+  },
+  "n_duration_ge_60": 552,
+  "n_duration_ge_90": 39,
+  "n_duration_lt_30": 0,
+  "fhr_loss_frac": {
+    "count": 552.0,
+    "mean": 0.1886,
+    "std": 0.1237,
+    "min": 0.0,
+    "25%": 0.0901,
+    "50%": 0.1836,
+    "75%": 0.2714,
+    "max": 0.5383
+  },
+  "fhr_loss_last60": {
+    "count": 552.0,
+    "mean": 0.192,
+    "std": 0.1413,
+    "min": 0.0,
+    "25%": 0.0782,
+    "50%": 0.1667,
+    "75%": 0.2762,
+    "max": 0.6998
+  },
+  "fhr_zero_frac_mean": 0.1879,
+  "fhr_oor_frac_mean": 0.00073,
+  "fhr_nan_frac_mean": 0.0,
+  "n_fhr_loss_gt_0.2": 253,
+  "n_fhr_loss_last60_gt_0.2": 240,
+  "n_fhr_loss_gt_0.3": 105,
+  "n_fhr_loss_last60_gt_0.3": 112,
+  "n_fhr_loss_gt_0.4": 31,
+  "n_fhr_loss_last60_gt_0.4": 51,
+  "n_fhr_loss_gt_0.5": 5,
+  "n_fhr_loss_last60_gt_0.5": 19,
+  "uc_loss_frac": {
+    "count": 552.0,
+    "mean": 0.1965,
+    "std": 0.1483,
+    "min": 0.0,
+    "25%": 0.0809,
+    "50%": 0.1743,
+    "75%": 0.2851,
+    "max": 1.0
+  },
+  "n_uc_loss_gt_0.5": 21,
+  "n_has_stage2_in_signal": 506,
+  "stage2_in_signal_min": {
+    "count": 506.0,
+    "mean": 13.68,
+    "std": 7.48,
+    "min": 2.0,
+    "25%": 10.0,
+    "50%": 10.0,
+    "75%": 20.0,
+    "max": 30.08
+  },
+  "pos_stage2_value_counts_special": {
+    "zero": 0,
+    "ge_n_samples": 0,
+    "nan": 0
+  },
+  "rec_type_counts": {
+    "-1.0": 2,
+    "1.0": 413,
+    "2.0": 102,
+    "12.0": 35
+  },
+  "sig2birth": {
+    "count": 552.0,
+    "mean": 0.0,
+    "std": 0.0,
+    "min": 0.0,
+    "25%": 0.0,
+    "50%": 0.0,
+    "75%": 0.0,
+    "max": 0.0
+  },
+  "n_sig2birth_gt0": 0,
+  "deliv_type_counts": {
+    "1.0": 506,
+    "2.0": 46
+  },
+  "stage2_consistency_diff_min": {
+    "count": 506.0,
+    "mean": -0.0,
+    "std": 0.01,
+    "min": -0.08,
+    "25%": 0.0,
+    "50%": 0.0,
+    "75%": 0.0,
+    "max": 0.0
+  },
+  "stage2_consistency_abs_le_2min_frac": 1.0,
+  "missing_outcomes": {
+    "ph": 0,
+    "bdecf": 11,
+    "apgar5": 0,
+    "be": 11,
+    "pco2": 11
+  },
+  "labels_positive": {
+    "y_ph705": 40,
+    "y_ph715": 113,
+    "y_bdecf12": 18,
+    "y_apgar5_lt7": 19
+  },
+  "labels_n_defined": {
+    "y_ph705": 552,
+    "y_ph715": 552,
+    "y_bdecf12": 541,
+    "y_apgar5_lt7": 552
+  },
+  "labels_prevalence": {
+    "y_ph705": 0.0725,
+    "y_ph715": 0.2047,
+    "y_bdecf12": 0.0333,
+    "y_apgar5_lt7": 0.0344
+  },
+  "ph": {
+    "count": 552.0,
+    "mean": 7.23,
+    "std": 0.105,
+    "min": 6.85,
+    "25%": 7.17,
+    "50%": 7.25,
+    "75%": 7.3,
+    "max": 7.47
+  },
+  "label_overlap_ph705_vs_bdecf12": {
+    "0.0": {
+      "0.0": 508,
+      "1.0": 15
+    },
+    "1.0": {
+      "0.0": 0,
+      "1.0": 18
+    }
+  },
+  "positives_by_stage2": {
+    "0.0": {
+      "False": 33,
+      "True": 479
+    },
+    "1.0": {
+      "False": 13,
+      "True": 27
+    }
+  },
+  "positives_by_rec_type": {
+    "0.0": {
+      "-1.0": 2,
+      "1.0": 380,
+      "2.0": 98,
+      "12.0": 32
+    },
+    "1.0": {
+      "-1.0": 0,
+      "1.0": 33,
+      "2.0": 4,
+      "12.0": 3
+    }
+  }
+}

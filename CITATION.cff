@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article and this repository."
+type: software
+title: "Code for: Expert-referenced interpretability in intrapartum cardiotocography models for fetal acidaemia"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: "Akdağlı"
+    given-names: "Ali"
+    affiliation: "Department of Electrical and Electronics Engineering, Faculty of Engineering, Mersin University, Mersin, Türkiye"
+    orcid: "https://orcid.org/0000-0003-3312-992X"
+  - family-names: "Yanık"
+    given-names: "Hüseyin"
+    affiliation: "Department of Information Systems and Technologies, Erdemli School of Applied Technology and Management, Mersin University, Mersin, Türkiye"
+    orcid: "https://orcid.org/0000-0002-4386-5536"
+  - family-names: "Yıldız"
+    given-names: "Ali"
+    affiliation: "Department of Electrical and Electronics Engineering, Faculty of Engineering, Mersin University, Mersin, Türkiye"
+    orcid: "https://orcid.org/0000-0003-3904-6017"
+repository-code: "https://github.com/A3301/ctg-transparent-models"
+doi: "10.5281/zenodo.24491162"
+keywords:
+  - "cardiotocography"
+  - "fetal acidaemia"
+  - "interpretable machine learning"
+  - "neuro-symbolic AI"
+  - "concept leakage"
+  - "heart rate variability"
+  - "expert annotation"
+preferred-citation:
+  type: article
+  title: "Expert-referenced interpretability in intrapartum cardiotocography models for fetal acidaemia"
+  authors:
+    - family-names: "Akdağlı"
+      given-names: "Ali"
+    - family-names: "Yanık"
+      given-names: "Hüseyin"
+    - family-names: "Yıldız"
+      given-names: "Ali"

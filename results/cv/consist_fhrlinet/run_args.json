@@ -1,0 +1,12 @@
+{
+  "model": "fhrlinet",
+  "window": "W60",
+  "label": "y_ph705",
+  "splits": "consist_mendis_5x5_all552",
+  "exp": "consist_fhrlinet",
+  "ensemble": 1,
+  "workers": 6,
+  "repeats": "0,1,2,3,4",
+  "folds": "0,1,2,3,4",
+  "fixed_cfg_from": null
+}

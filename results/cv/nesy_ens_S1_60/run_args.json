@@ -1,0 +1,12 @@
+{
+  "model": "nesy",
+  "window": "S1_60",
+  "label": "y_ph705",
+  "splits": "outer_splits",
+  "exp": "nesy_ens_S1_60",
+  "ensemble": 5,
+  "workers": 6,
+  "repeats": "0,1,2,3,4",
+  "folds": "0,1,2,3,4,5,6,7,8,9",
+  "fixed_cfg_from": "mode:nesy_ens_W60"
+}

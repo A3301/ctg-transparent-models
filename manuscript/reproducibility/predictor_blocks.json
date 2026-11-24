@@ -1,0 +1,61 @@
+{
+  "cohort_records": 536,
+  "events": 38,
+  "folds": 50,
+  "bootstrap": {
+    "n": 2000,
+    "seed": 20261123
+  },
+  "source_experiments": {
+    "hrv": "hrv_lr_W60",
+    "hrv_figo": "transp_lr_noq_W60",
+    "hrv_figo_quality": "transp_lr_W60"
+  },
+  "models": {
+    "hrv": {
+      "auroc": 0.7822870429084761,
+      "ci95": [
+        0.6797775971865792,
+        0.8730133265096769
+      ]
+    },
+    "hrv_figo": {
+      "auroc": 0.802578735996618,
+      "ci95": [
+        0.7138019281806858,
+        0.8790076576048745
+      ]
+    },
+    "hrv_figo_quality": {
+      "auroc": 0.8080744028746566,
+      "ci95": [
+        0.7202776301937287,
+        0.8795311022186084
+      ]
+    }
+  },
+  "contrasts": {
+    "hrv_figo_minus_hrv": {
+      "delta_auroc": 0.020291693088141938,
+      "ci95": [
+        -0.04257588738942581,
+        0.08464673580965834
+      ]
+    },
+    "hrv_figo_quality_minus_hrv_figo": {
+      "delta_auroc": 0.0054956668780385964,
+      "ci95": [
+        -0.03633057697833627,
+        0.0499330128259005
+      ]
+    },
+    "hrv_figo_quality_minus_hrv": {
+      "delta_auroc": 0.025787359966180534,
+      "ci95": [
+        -0.039123017822448154,
+        0.09552621496371226
+      ]
+    }
+  },
+  "status": "post hoc fixed-prediction reanalysis"
+}

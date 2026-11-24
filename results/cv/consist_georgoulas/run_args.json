@@ -1,0 +1,12 @@
+{
+  "model": "georgoulas",
+  "window": "S1_30",
+  "label": "y_ph705le",
+  "splits": "consist_georgoulas_5x10_all552",
+  "exp": "consist_georgoulas",
+  "ensemble": 1,
+  "workers": 8,
+  "repeats": "0,1,2,3,4",
+  "folds": "0,1,2,3,4,5,6,7,8,9",
+  "fixed_cfg_from": null
+}

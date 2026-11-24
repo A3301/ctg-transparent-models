@@ -1,0 +1,77 @@
+{
+ "dusuk": {
+  "n": 171,
+  "fhr_missing_range": [
+   0.0,
+   0.08
+  ],
+  "ACC": {
+   "se": 0.682,
+   "ppv": 0.467,
+   "ref_per_h": 2.36,
+   "det_per_h": 3.44
+  },
+  "DEC": {
+   "se": 0.788,
+   "ppv": 0.632,
+   "ref_per_h": 5.98,
+   "det_per_h": 7.45
+  },
+  "UC": {
+   "se": 0.917,
+   "ppv": 0.649,
+   "ref_per_h": 12.45,
+   "det_per_h": 17.6
+  }
+ },
+ "orta": {
+  "n": 171,
+  "fhr_missing_range": [
+   0.081,
+   0.202
+  ],
+  "ACC": {
+   "se": 0.667,
+   "ppv": 0.199,
+   "ref_per_h": 1.04,
+   "det_per_h": 3.48
+  },
+  "DEC": {
+   "se": 0.808,
+   "ppv": 0.354,
+   "ref_per_h": 3.21,
+   "det_per_h": 7.32
+  },
+  "UC": {
+   "se": 0.961,
+   "ppv": 0.61,
+   "ref_per_h": 10.9,
+   "det_per_h": 17.17
+  }
+ },
+ "yuksek": {
+  "n": 171,
+  "fhr_missing_range": [
+   0.204,
+   0.499
+  ],
+  "ACC": {
+   "se": 0.826,
+   "ppv": 0.149,
+   "ref_per_h": 0.5,
+   "det_per_h": 2.8
+  },
+  "DEC": {
+   "se": 0.746,
+   "ppv": 0.271,
+   "ref_per_h": 2.01,
+   "det_per_h": 5.52
+  },
+  "UC": {
+   "se": 0.942,
+   "ppv": 0.623,
+   "ref_per_h": 9.35,
+   "det_per_h": 14.13
+  }
+ }
+}

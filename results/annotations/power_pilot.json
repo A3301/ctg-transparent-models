@@ -1,0 +1,142 @@
+{
+ "n": 536,
+ "n_pos_ph705": 38,
+ "models": {
+  "cnn_ens_W60": {
+   "auroc": [
+    0.7939,
+    0.7199,
+    0.8641
+   ],
+   "auroc_ci_width": 0.1442,
+   "cindex_ph": [
+    0.5868,
+    0.5587,
+    0.6147
+   ],
+   "cindex_ci_width": 0.056
+  },
+  "nesy_ens_W60": {
+   "auroc": [
+    0.774,
+    0.6999,
+    0.84
+   ],
+   "auroc_ci_width": 0.1401,
+   "cindex_ph": [
+    0.5848,
+    0.5562,
+    0.6137
+   ],
+   "cindex_ci_width": 0.0576
+  },
+  "transformer_W60": {
+   "auroc": [
+    0.8145,
+    0.741,
+    0.8813
+   ],
+   "auroc_ci_width": 0.1403,
+   "cindex_ph": [
+    0.5897,
+    0.5624,
+    0.6176
+   ],
+   "cindex_ci_width": 0.0551
+  },
+  "figo_lr_W60": {
+   "auroc": [
+    0.7295,
+    0.6388,
+    0.8125
+   ],
+   "auroc_ci_width": 0.1737,
+   "cindex_ph": [
+    0.5517,
+    0.524,
+    0.5805
+   ],
+   "cindex_ci_width": 0.0565
+  }
+ },
+ "differences": {
+  "cnn_ens_W60 - nesy_ens_W60": {
+   "d_auroc_ci": [
+    -0.0122,
+    0.0506
+   ],
+   "d_auroc_se": 0.0161,
+   "d_cindex_ci": [
+    -0.0101,
+    0.0137
+   ],
+   "d_cindex_se": 0.006,
+   "se_ratio_auroc_over_c": 2.7
+  },
+  "cnn_ens_W60 - transformer_W60": {
+   "d_auroc_ci": [
+    -0.0695,
+    0.0247
+   ],
+   "d_auroc_se": 0.0245,
+   "d_cindex_ci": [
+    -0.0248,
+    0.0198
+   ],
+   "d_cindex_se": 0.011,
+   "se_ratio_auroc_over_c": 2.22
+  },
+  "cnn_ens_W60 - figo_lr_W60": {
+   "d_auroc_ci": [
+    -0.0276,
+    0.1658
+   ],
+   "d_auroc_se": 0.0477,
+   "d_cindex_ci": [
+    0.001,
+    0.0682
+   ],
+   "d_cindex_se": 0.0175,
+   "se_ratio_auroc_over_c": 2.73
+  },
+  "nesy_ens_W60 - transformer_W60": {
+   "d_auroc_ci": [
+    -0.0923,
+    0.0127
+   ],
+   "d_auroc_se": 0.0274,
+   "d_cindex_ci": [
+    -0.0289,
+    0.0197
+   ],
+   "d_cindex_se": 0.0124,
+   "se_ratio_auroc_over_c": 2.21
+  },
+  "nesy_ens_W60 - figo_lr_W60": {
+   "d_auroc_ci": [
+    -0.0428,
+    0.1422
+   ],
+   "d_auroc_se": 0.0471,
+   "d_cindex_ci": [
+    -0.0009,
+    0.0655
+   ],
+   "d_cindex_se": 0.0177,
+   "se_ratio_auroc_over_c": 2.67
+  },
+  "transformer_W60 - figo_lr_W60": {
+   "d_auroc_ci": [
+    -0.0083,
+    0.1843
+   ],
+   "d_auroc_se": 0.0507,
+   "d_cindex_ci": [
+    0.0045,
+    0.0711
+   ],
+   "d_cindex_se": 0.0171,
+   "se_ratio_auroc_over_c": 2.96
+  }
+ }
+}

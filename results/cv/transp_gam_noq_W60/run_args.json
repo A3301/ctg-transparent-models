@@ -1,0 +1,12 @@
+{
+  "model": "transp_gam_noq",
+  "window": "W60",
+  "label": "y_ph705",
+  "splits": "outer_splits",
+  "exp": "transp_gam_noq_W60",
+  "ensemble": 1,
+  "workers": 8,
+  "repeats": "0,1,2,3,4",
+  "folds": "0,1,2,3,4,5,6,7,8,9",
+  "fixed_cfg_from": null
+}

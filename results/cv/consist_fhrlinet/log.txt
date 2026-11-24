@@ -1,0 +1,61 @@
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\.venv\Lib\site-packages\torch\nn\modules\module.py:1370: UserWarning: expandable_segments not supported on this platform (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10/cuda/CUDAAllocatorConfig.h:39.)
+  return t.to(
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\.venv\Lib\site-packages\torch\nn\modules\module.py:1370: UserWarning: expandable_segments not supported on this platform (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10/cuda/CUDAAllocatorConfig.h:39.)
+  return t.to(
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\.venv\Lib\site-packages\torch\nn\modules\module.py:1370: UserWarning: expandable_segments not supported on this platform (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10/cuda/CUDAAllocatorConfig.h:39.)
+  return t.to(
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\.venv\Lib\site-packages\torch\nn\modules\module.py:1370: UserWarning: expandable_segments not supported on this platform (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10/cuda/CUDAAllocatorConfig.h:39.)
+  return t.to(
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\.venv\Lib\site-packages\torch\nn\modules\module.py:1370: UserWarning: expandable_segments not supported on this platform (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10/cuda/CUDAAllocatorConfig.h:39.)
+  return t.to(
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\.venv\Lib\site-packages\torch\nn\modules\module.py:1370: UserWarning: expandable_segments not supported on this platform (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10/cuda/CUDAAllocatorConfig.h:39.)
+  return t.to(
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r0_f3.npz ok 483s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r0_f2.npz ok 727s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r0_f4.npz ok 748s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r1_f0.npz ok 759s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r0_f1.npz ok 884s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r0_f0.npz ok 927s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r1_f1.npz ok 594s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r1_f4.npz ok 801s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r1_f3.npz ok 849s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r2_f0.npz ok 743s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r2_f1.npz ok 821s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r0_f0.npz skip
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r0_f1.npz skip
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r0_f2.npz skip
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r0_f3.npz skip
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r0_f4.npz skip
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r1_f0.npz skip
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r1_f1.npz skip
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r1_f3.npz skip
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r1_f4.npz skip
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r2_f0.npz skip
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r2_f1.npz skip
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\.venv\Lib\site-packages\torch\nn\modules\module.py:1370: UserWarning: expandable_segments not supported on this platform (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10/cuda/CUDAAllocatorConfig.h:39.)
+  return t.to(
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\.venv\Lib\site-packages\torch\nn\modules\module.py:1370: UserWarning: expandable_segments not supported on this platform (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10/cuda/CUDAAllocatorConfig.h:39.)
+  return t.to(
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\.venv\Lib\site-packages\torch\nn\modules\module.py:1370: UserWarning: expandable_segments not supported on this platform (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10/cuda/CUDAAllocatorConfig.h:39.)
+  return t.to(
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\.venv\Lib\site-packages\torch\nn\modules\module.py:1370: UserWarning: expandable_segments not supported on this platform (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10/cuda/CUDAAllocatorConfig.h:39.)
+  return t.to(
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\.venv\Lib\site-packages\torch\nn\modules\module.py:1370: UserWarning: expandable_segments not supported on this platform (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10/cuda/CUDAAllocatorConfig.h:39.)
+  return t.to(
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\.venv\Lib\site-packages\torch\nn\modules\module.py:1370: UserWarning: expandable_segments not supported on this platform (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10/cuda/CUDAAllocatorConfig.h:39.)
+  return t.to(
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r2_f3.npz ok 500s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r2_f2.npz ok 517s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r3_f1.npz ok 570s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r2_f4.npz ok 659s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r3_f0.npz ok 731s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r1_f2.npz ok 824s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r3_f2.npz ok 457s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r3_f4.npz ok 454s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r3_f3.npz ok 635s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r4_f0.npz ok 556s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r4_f2.npz ok 496s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r4_f1.npz ok 595s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r4_f3.npz ok 397s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\consist_fhrlinet\r4_f4.npz ok 361s
+done consist_fhrlinet in 1388s

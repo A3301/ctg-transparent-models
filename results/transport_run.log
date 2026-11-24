@@ -1,0 +1,129 @@
+C1 transp_lr D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\transport\C1_transp_lr.npz ok 61s
+C1 transp_gam D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\transport\C1_transp_gam.npz ok 52s
+C1 figo_lr D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\transport\C1_figo_lr.npz ok 50s
+C1 georgoulas D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\transport\C1_georgoulas.npz ok 4s
+C1 cnn D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\transport\C1_cnn.npz ok 175s
+C3 transp_lr D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\transport\C3_transp_lr.npz ok 48s
+C3 transp_gam D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\transport\C3_transp_gam.npz ok 47s
+C3 figo_lr D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\transport\C3_figo_lr.npz ok 48s
+C3 georgoulas D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\transport\C3_georgoulas.npz ok 5s
+C3 cnn D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\transport\C3_cnn.npz ok 103s
+TRANSPORT_DONE
+TRANSPORT_CHAIN_END
+C1 transp_lr D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\transport\C1_transp_lr.npz ok 55s
+C1 transp_gam D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\transport\C1_transp_gam.npz ok 46s
+C1 figo_lr D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\transport\C1_figo_lr.npz ok 48s
+C1 transp_lr_nouc D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\transport\C1_transp_lr_nouc.npz ok 42s
+C1 transp_gam_nouc D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\transport\C1_transp_gam_nouc.npz ok 41s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+C3 transp_lr D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\transport\C3_transp_lr.npz ok 44s
+C3 transp_gam D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\transport\C3_transp_gam.npz ok 39s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+C3 figo_lr D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\transport\C3_figo_lr.npz ok 43s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\src\run\cv.py:373: RuntimeWarning: overflow encountered in exp
+  pv, pt = 1 / (1 + np.exp(-sv / T)), 1 / (1 + np.exp(-st / T))
+C3 transp_lr_nouc D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\transport\C3_transp_lr_nouc.npz ok 45s
+C3 transp_gam_nouc D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\transport\C3_transp_gam_nouc.npz ok 40s
+TRANSPORT_DONE

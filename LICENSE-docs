@@ -1,0 +1,10 @@
+Documentation, analysis plans, figures and aggregate results (docs/, results/, figures/, manuscript/)
+Copyright (c) 2026 Ali Akdağlı, Hüseyin Yanık, Ali Yıldız
+
+Licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0).
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Third-party data are NOT covered by this licence and are not included in this repository:
+- CTU-UHB Intrapartum Cardiotocography Database (PhysioNet, doi:10.13026/C22013), under its own licence;
+- expert annotations (Romagnoli et al. 2020, CC BY-NC-ND 4.0; FHRMA, GPL-3.0; Hruban et al. 2015),
+  downloaded and checksum-verified by src/data/fetch_annotations.py.

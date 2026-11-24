@@ -1,0 +1,63 @@
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\.venv\Lib\site-packages\torch\nn\modules\module.py:1370: UserWarning: expandable_segments not supported on this platform (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10/cuda/CUDAAllocatorConfig.h:39.)
+  return t.to(
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\.venv\Lib\site-packages\torch\nn\modules\module.py:1370: UserWarning: expandable_segments not supported on this platform (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10/cuda/CUDAAllocatorConfig.h:39.)
+  return t.to(
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\.venv\Lib\site-packages\torch\nn\modules\module.py:1370: UserWarning: expandable_segments not supported on this platform (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10/cuda/CUDAAllocatorConfig.h:39.)
+  return t.to(
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\.venv\Lib\site-packages\torch\nn\modules\module.py:1370: UserWarning: expandable_segments not supported on this platform (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10/cuda/CUDAAllocatorConfig.h:39.)
+  return t.to(
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\.venv\Lib\site-packages\torch\nn\modules\module.py:1370: UserWarning: expandable_segments not supported on this platform (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10/cuda/CUDAAllocatorConfig.h:39.)
+  return t.to(
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\.venv\Lib\site-packages\torch\nn\modules\module.py:1370: UserWarning: expandable_segments not supported on this platform (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\c10/cuda/CUDAAllocatorConfig.h:39.)
+  return t.to(
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r0_f4.npz ok 61s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r0_f1.npz ok 72s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r0_f5.npz ok 105s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r0_f2.npz ok 108s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r0_f0.npz ok 109s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r0_f3.npz ok 127s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r0_f6.npz ok 75s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r0_f7.npz ok 79s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r1_f1.npz ok 58s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r1_f0.npz ok 93s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r0_f8.npz ok 105s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r1_f3.npz ok 87s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r0_f9.npz ok 164s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r1_f6.npz ok 70s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r1_f5.npz ok 91s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r1_f2.npz ok 162s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r1_f4.npz ok 124s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r1_f7.npz ok 75s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r1_f8.npz ok 82s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r1_f9.npz ok 89s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r2_f0.npz ok 78s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r2_f3.npz ok 59s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r2_f1.npz ok 74s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r2_f2.npz ok 92s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r2_f4.npz ok 71s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r2_f6.npz ok 71s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r2_f8.npz ok 98s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r2_f9.npz ok 70s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r2_f5.npz ok 111s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r3_f0.npz ok 84s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r2_f7.npz ok 153s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r3_f1.npz ok 99s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r3_f3.npz ok 95s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r3_f5.npz ok 72s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r3_f2.npz ok 132s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r3_f4.npz ok 127s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r3_f7.npz ok 86s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r3_f8.npz ok 75s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r3_f6.npz ok 135s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r4_f2.npz ok 61s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r4_f0.npz ok 104s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r3_f9.npz ok 133s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r4_f4.npz ok 81s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r4_f1.npz ok 136s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r4_f5.npz ok 86s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r4_f6.npz ok 77s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r4_f3.npz ok 151s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r4_f9.npz ok 57s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r4_f7.npz ok 92s
+D:\Biomed_Calismalar\01_CTG_Fetal_Asidemi\results\cv\nesy_ens_W30\r4_f8.npz ok 65s
+done nesy_ens_W30 in 809s

@@ -1,0 +1,8 @@
+# Global settings shared by all phases
+seed: 20261122
+data:
+  db_dir: data/raw/ctu-chb-intrapartum-cardiotocography-database-1.0.0
+  fs_hz: 4
+labels:
+  primary: y_ph705        # pH < 7.05
+  secondary: [y_ph715, y_bdecf12, y_apgar5_lt7]

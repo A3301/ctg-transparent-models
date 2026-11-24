@@ -1,0 +1,3 @@
+*.sh text eol=lf
+# analysis plans: keep the committed bytes so that their SHA-256 checksums match experiments/log.csv
+docs/analiz_plani*.md -text

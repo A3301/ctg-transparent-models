@@ -1,0 +1,7 @@
+,fhr_missing,fhr_missing,fhr_missing,fhr_missing,fhr_missing,fhr_missing,fhr_missing,uc_missing,uc_missing,uc_missing,uc_missing,uc_missing,uc_missing,uc_missing,fhr_longest_gap_s,fhr_longest_gap_s,fhr_longest_gap_s,fhr_longest_gap_s,fhr_longest_gap_s,fhr_longest_gap_s,fhr_longest_gap_s,stage2_min_in_window,stage2_min_in_window,stage2_min_in_window,stage2_min_in_window,stage2_min_in_window,stage2_min_in_window,stage2_min_in_window,padded_s,padded_s,padded_s,padded_s,padded_s,padded_s,padded_s
+,count,mean,std,min,50%,90%,max,count,mean,std,min,50%,90%,max,count,mean,std,min,50%,90%,max,count,mean,std,min,50%,90%,max,count,mean,std,min,50%,90%,max
+window,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S1_60,552.0,0.15,0.13,0.0,0.128,0.326,0.573,552.0,0.188,0.202,0.0,0.14,0.434,1.0,552.0,368.455,401.526,0.0,210.5,905.4,2063.5,552.0,0.0,0.0,0.0,0.0,0.0,0.0,552.0,0.0,0.0,0.0,0.0,0.0,0.0
+W30,552.0,0.229,0.226,0.0,0.167,0.564,1.0,552.0,0.373,0.317,0.0,0.3,0.917,1.0,552.0,238.572,367.674,0.0,82.875,800.8,1800.0,552.0,12.542,8.101,0.0,10.0,25.0,30.0,552.0,0.0,0.0,0.0,0.0,0.0,0.0
+W60,552.0,0.17,0.14,0.0,0.141,0.361,0.698,552.0,0.256,0.217,0.0,0.209,0.543,1.0,552.0,334.233,400.166,0.0,142.375,928.6,2063.5,552.0,12.542,8.102,0.0,10.0,25.0,30.083,552.0,0.0,0.0,0.0,0.0,0.0,0.0
+W90,552.0,0.317,0.111,0.0,0.321,0.458,0.642,552.0,0.377,0.162,0.0,0.355,0.577,1.0,552.0,1138.692,460.329,0.0,1200.0,1656.9,2681.0,552.0,12.542,8.102,0.0,10.0,25.0,30.083,552.0,950.216,453.44,0.0,1097.5,1500.0,1800.0

@@ -1,0 +1,17 @@
+{
+ "annotated_nonacid": 477,
+ "fail_record_quality_nonacid": 153,
+ "annotated_acid": 36,
+ "fail_record_quality_acid": 20,
+ "h1c_perfold_auroc_mean": 0.5219410188042949,
+ "h1c_perfold_auroc_sd": 0.10074322335732847,
+ "h1c_n_folds": 50,
+ "romagnoli_total_annotated_episodes": 10208,
+ "romagnoli_by_label": {
+  "UC": 7027,
+  "DEC": 2261,
+  "ACC": 823,
+  "TC": 54,
+  "BC": 43
+ }
+}

@@ -1,0 +1,374 @@
+{
+ "downloaded_utc": "2026-11-23T11:15:53+00:00",
+ "fhrma_commit": "407a279ea55458b0512fd709646c5646dc2ef669",
+ "sets": {
+  "romagnoli2020": {
+   "licence": "CC BY-NC-ND 4.0 (article licence; no separate data licence stated)",
+   "citation": "Romagnoli S. et al., Data in Brief 2020, DOI 10.1016/j.dib.2020.105690",
+   "files": {
+    "europepmc_PMC7256311_supplementary.zip": {
+     "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7256311/supplementaryFiles",
+     "bytes": 2122408,
+     "sha256": "394e9be64404c1019a5ea2c350b60aabe426c9d3133d1437380209a73d72bf20"
+    }
+   }
+  },
+  "hruban2015": {
+   "licence": "free for non-commercial use, citing Hruban et al. 2015 (author page)",
+   "citation": "Hruban L., Spilka J. et al., J Eval Clin Pract 2015;21(4):694-702, DOI 10.1111/jep.12368",
+   "files": {
+    "ExpertAnnCTU-UHB-CTG_20150203.csv": {
+     "url": "https://people.ciirc.cvut.cz/~spilkjir/files/ExpertAnnCTU-UHB-CTG_20150203.csv",
+     "bytes": 94749,
+     "sha256": "6a2890186d63d4c6d44aa0f872f9854c4d574c754ea877d01fdd70f2e58604fc"
+    }
+   }
+  },
+  "fhrma": {
+   "licence": "GPL-3.0 (repository licence)",
+   "citation": "Boudet S. et al., FHRMA toolbox, SoftwareX 2020, DOI 10.1016/j.softx.2020.100428",
+   "files": {
+    "LICENSE": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/LICENSE",
+     "bytes": 35147,
+     "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+    },
+    "expertAnalyses.mat": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/analyses/expertAnalyses.mat",
+     "bytes": 8563101,
+     "sha256": "9f8230e3bc581527569da6812060b3d15c640ad75d028bb3ba90c4af75786fa2"
+    },
+    "traindata/train01.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train01.fhr",
+     "bytes": 84046,
+     "sha256": "ec5ca23353488ebfc441fa2e0eeceeadf681b71e279351fe04bc2c3a87c2d5a6"
+    },
+    "traindata/train02.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train02.fhr",
+     "bytes": 96898,
+     "sha256": "e920b52cf826e7f50c0b895e609895fd6d420e0dd9653f99622e84776e6d1574"
+    },
+    "traindata/train03.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train03.fhr",
+     "bytes": 58486,
+     "sha256": "fffb296916be13404d9e33e2c1a1ceca3279e4c1f8bea41fe0f704724367c31c"
+    },
+    "traindata/train04.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train04.fhr",
+     "bytes": 105574,
+     "sha256": "b7a73677cfd6c5235843ba2f15f132016d472899cf8eea9eb4d267fa2ecde227"
+    },
+    "traindata/train05.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train05.fhr",
+     "bytes": 104764,
+     "sha256": "1e37bd9321959a494d95b44beae583c0065dc62900fe490fb9908cc86274cdff"
+    },
+    "traindata/train06.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train06.fhr",
+     "bytes": 69862,
+     "sha256": "ffe144a068d7b4c547fb0879082d1719150c7a8eeed20e42cbafc0d95c493de9"
+    },
+    "traindata/train07.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train07.fhr",
+     "bytes": 90724,
+     "sha256": "12a8266a8cffef5faff299ad416f76e83950f67ba6cc94248aa185f2a25c4ae2"
+    },
+    "traindata/train08.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train08.fhr",
+     "bytes": 70168,
+     "sha256": "679de828ad40f5f1d1a0635e04d8b9dc6d23b90beafc505355c2e560df54866f"
+    },
+    "traindata/train09.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train09.fhr",
+     "bytes": 105556,
+     "sha256": "c4309615a9f029b320658e463092143bd51a2eeb557a42e3caf8935c1b51bd26"
+    },
+    "traindata/train10.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train10.fhr",
+     "bytes": 140710,
+     "sha256": "1be3ae013a8b997b494353d8c0999132578b8f551932fb42f0a6d85106670055"
+    },
+    "traindata/train11.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train11.fhr",
+     "bytes": 174982,
+     "sha256": "b22e3ef9794cb60817a902b1495524e976491c7bdefd71737df37a5e0c093623"
+    },
+    "traindata/train12.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train12.fhr",
+     "bytes": 174784,
+     "sha256": "1c84b278058e96a355a99ba2cb5b898453fda501ace3f5795ec45201c2e23d36"
+    },
+    "traindata/train13.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train13.fhr",
+     "bytes": 175360,
+     "sha256": "ed2b8ac4bcc75a2bed805642dba8ba86fbd205b5115e95f223498fd635011234"
+    },
+    "traindata/train14.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train14.fhr",
+     "bytes": 69790,
+     "sha256": "db717949cd5099c45c37e32f717323494160b522c9b690fe3b16926e8f0a4564"
+    },
+    "traindata/train15.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train15.fhr",
+     "bytes": 85648,
+     "sha256": "cbfca884663ebfc5a3831bb1c1f80358d9ae9e0a14aa4e2e96b6d98e9895c396"
+    },
+    "traindata/train16.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train16.fhr",
+     "bytes": 140782,
+     "sha256": "c299c1e1367c7efc6ec309f66b87195876b1f730ec5d7e12f5539335a7d69b2d"
+    },
+    "traindata/train17.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train17.fhr",
+     "bytes": 96292,
+     "sha256": "f17efbbeb9c998e383904b28daeb15298ede79aaf04df9e2d556effb0d1045a0"
+    },
+    "traindata/train18.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train18.fhr",
+     "bytes": 116518,
+     "sha256": "d044fd992732fbcd5f19243e991a4f2b7933ac7e07142ca4b24b9a1b0e90fc64"
+    },
+    "traindata/train19.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train19.fhr",
+     "bytes": 42070,
+     "sha256": "09da2ccfade9511f8f10926c4bb484f3b91c9c1eb91c147bf4dafc13a8895695"
+    },
+    "traindata/train20.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train20.fhr",
+     "bytes": 69736,
+     "sha256": "970dea134b9f210e119b87bd6892b1ff62093577528354676bc11556df589784"
+    },
+    "traindata/train21.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train21.fhr",
+     "bytes": 69664,
+     "sha256": "c9f8bbfce17c98f2b90e3d804217268b118868ffec8570db20944fc5e9319ee7"
+    },
+    "traindata/train22.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train22.fhr",
+     "bytes": 69862,
+     "sha256": "d77776972b21a8d1c17fc7f81a7c2c5b1784c8908e0f767b4a16f13ef827597e"
+    },
+    "traindata/train23.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train23.fhr",
+     "bytes": 105592,
+     "sha256": "e27e000c35937842b73468264675d2cd79134d4fe34d50ebba9dcb6e78e0b178"
+    },
+    "traindata/train24.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train24.fhr",
+     "bytes": 91228,
+     "sha256": "734b5e3a4b92db1917faa9903438022ed72893f9e503bc9300785f36d271b14c"
+    },
+    "traindata/train25.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train25.fhr",
+     "bytes": 190714,
+     "sha256": "8f6c0738968006e14934abe33d8e406ff4ec8dccad5776205eccd1392d7f70e8"
+    },
+    "traindata/train26.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train26.fhr",
+     "bytes": 175054,
+     "sha256": "155650fda31d20624b47b1025680742135cbdb94d1d5a201a100b8836a96db0c"
+    },
+    "traindata/train27.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train27.fhr",
+     "bytes": 202252,
+     "sha256": "9a999ff8c8e67ae19136728b87681f634ff1b38530aaf5c28f1aa7239dd02249"
+    },
+    "traindata/train28.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train28.fhr",
+     "bytes": 105574,
+     "sha256": "fe76ad2e763ab4cf3b345129f05e5c484b1be67df21556a68d009d97d10e71f9"
+    },
+    "traindata/train29.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train29.fhr",
+     "bytes": 100444,
+     "sha256": "836e6fbb847227a7f87d18c636ac93245e43978a76049803518ffb2f24ff10fd"
+    },
+    "traindata/train30.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train30.fhr",
+     "bytes": 69790,
+     "sha256": "0afbff24b17225a1bdb8073412e86b2d71a5c92c5dd6c8d65053e85c122c3738"
+    },
+    "traindata/train31.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train31.fhr",
+     "bytes": 69790,
+     "sha256": "6edd84d4b67f074e13a8c6b2ba35a6c3bb57b256508d0ff78dd6f79df463d528"
+    },
+    "traindata/train32.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train32.fhr",
+     "bytes": 105232,
+     "sha256": "2e49f2f667640738e6bb58131a70d4d304062e75ae4ade248592f700a5b7b481"
+    },
+    "traindata/train33.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train33.fhr",
+     "bytes": 139486,
+     "sha256": "5a7f35b3304fe14df832f1cebeee1c5243656f7949797a5a816112b46bdbb615"
+    },
+    "traindata/train34.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train34.fhr",
+     "bytes": 93262,
+     "sha256": "234a23f5a3e09f14d4e4de31e0ff6c429ca232315fa4597355da6d5018afc12a"
+    },
+    "traindata/train35.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train35.fhr",
+     "bytes": 61024,
+     "sha256": "1841e57d01d229911696609dc492d73862a58e41c595eaa98f5fa6f67eb657cd"
+    },
+    "traindata/train36.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train36.fhr",
+     "bytes": 154378,
+     "sha256": "429cc75a8d4889b7078d087db59ad3667fdc94acc9cd2498783a3e8039f2f4a5"
+    },
+    "traindata/train37.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train37.fhr",
+     "bytes": 91234,
+     "sha256": "9c186f724fb94a1f557aaf71340ba45479929ad0a9ef435a6ccd75776a2af6ee"
+    },
+    "traindata/train38.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train38.fhr",
+     "bytes": 71140,
+     "sha256": "8981341bbf7ae8fb17f58be7b37c9d5f5d326914c070c00e1f3fc3284ef9f133"
+    },
+    "traindata/train39.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train39.fhr",
+     "bytes": 183100,
+     "sha256": "cc1b6d5ba2b793c7bfb7418a1e5c6a35993adec48a4639bbb3fb8447f0d0c6c0"
+    },
+    "traindata/train40.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train40.fhr",
+     "bytes": 188548,
+     "sha256": "06ca331672e908dd6f0865aac66b7d037e92558b8848c529418b458eb6521cc3"
+    },
+    "traindata/train41.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train41.fhr",
+     "bytes": 115462,
+     "sha256": "cf1f7f0c48d5704e5f52d8729185b03648f67928d510411cfa14bad0162cccd8"
+    },
+    "traindata/train42.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train42.fhr",
+     "bytes": 201442,
+     "sha256": "d9fefb10c7e284529feaa7f83cbb140542af42da93f3dfbd8d644e658f247fd5"
+    },
+    "traindata/train43.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train43.fhr",
+     "bytes": 690664,
+     "sha256": "4009d86361a616de9d60cd4600eac4260ad8894ee161d1a1035d5f1c0d5889ff"
+    },
+    "traindata/train44.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train44.fhr",
+     "bytes": 285178,
+     "sha256": "5071b46509e08854dd79e4e0581957b2b025db6be725c56c7ace920bb3ebbdc0"
+    },
+    "traindata/train45.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train45.fhr",
+     "bytes": 433384,
+     "sha256": "b4fbba0f0235573875a88e931b6f4443c5fd54d28b73aea3e9c4dc3242487a8c"
+    },
+    "traindata/train46.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train46.fhr",
+     "bytes": 208876,
+     "sha256": "65f39228176d280de258fe5ebeda3577175ce7a3b016db30a4a38dabe0b2ef22"
+    },
+    "traindata/train47.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train47.fhr",
+     "bytes": 168136,
+     "sha256": "a867c166b71906258ee2e01afeeff07f6e1ab62bbf004ef91f87ce979398c750"
+    },
+    "traindata/train48.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train48.fhr",
+     "bytes": 173980,
+     "sha256": "79ed4f1dee19087c1d36d8dc2a3021de261e5b4a140fef9cd68e5b7c70ebd33e"
+    },
+    "traindata/train49.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train49.fhr",
+     "bytes": 171664,
+     "sha256": "62677defa4032dd64948d8b3b1edd12e49f05ab1b226c4c89038fa0ccc0e0131"
+    },
+    "traindata/train50.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train50.fhr",
+     "bytes": 185560,
+     "sha256": "65e4a8b90e30fe2ca1ecd7f73e69f19871cca6f9ca75275eae72591a50c217f9"
+    },
+    "traindata/train51.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train51.fhr",
+     "bytes": 161068,
+     "sha256": "7808da0c668e9ffd2ee76362c40dac7669be89bbd1f391886ea961c39442c0a0"
+    },
+    "traindata/train52.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train52.fhr",
+     "bytes": 254680,
+     "sha256": "00f6431550f0bc187b0bb74938969c589a4101b844d13ae013adc057867f81a0"
+    },
+    "traindata/train53.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train53.fhr",
+     "bytes": 126670,
+     "sha256": "712b5122e1a7a841c39b27c7d729ae9227f525cc53b4054aec64a0e36bdac695"
+    },
+    "traindata/train54.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train54.fhr",
+     "bytes": 142792,
+     "sha256": "835e49555d83fd21a13fc1f4b9de984b184cf329b2036520cb6b36f867e93d0d"
+    },
+    "traindata/train55.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train55.fhr",
+     "bytes": 89638,
+     "sha256": "f46cb21671d75112005dfadb96de08c5b72b2407f1fe714bb3aca663b2438154"
+    },
+    "traindata/train56.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train56.fhr",
+     "bytes": 109132,
+     "sha256": "b8c14f07e5649e158cc41d6e814eac1410d5f3fac7ad8a5540c44475071c5c6c"
+    },
+    "traindata/train57.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train57.fhr",
+     "bytes": 69856,
+     "sha256": "24c1592c2df7f0371e5fb870a46d83f7f9c26aa663858dfa5931d7fd2ca61116"
+    },
+    "traindata/train58.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train58.fhr",
+     "bytes": 267388,
+     "sha256": "a8550996a7f94d6e90a663971830b12192165619ceb22051b9dbb8bcdc48849b"
+    },
+    "traindata/train59.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train59.fhr",
+     "bytes": 193858,
+     "sha256": "e8ad2ca7812ab0d78ed725c5e29152b02e2b443c770c53040c89e8a428017eac"
+    },
+    "traindata/train60.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train60.fhr",
+     "bytes": 95272,
+     "sha256": "1582dde22269ca80d8714a89815e0d2121bf004599531698083bb8d8b70ae0ba"
+    },
+    "traindata/train61.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train61.fhr",
+     "bytes": 82690,
+     "sha256": "ee31017a8eeb336ae8b8fd9639a19f9adee926e0604b6309f20bfeca937eb998"
+    },
+    "traindata/train62.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train62.fhr",
+     "bytes": 262606,
+     "sha256": "1db88d53022f22a8e2e0731463eed2f9f774c1c038786b3a69d54394e190be13"
+    },
+    "traindata/train63.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train63.fhr",
+     "bytes": 92302,
+     "sha256": "52e3d6af90e1f7a62f87e64c6d3f015c7e567c873dde795110ac79352066afbf"
+    },
+    "traindata/train64.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train64.fhr",
+     "bytes": 95020,
+     "sha256": "4b9a9f39403d8096271d6cbf8b1e0ec92e5c1429e880553a8f24c4098048dd7e"
+    },
+    "traindata/train65.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train65.fhr",
+     "bytes": 172606,
+     "sha256": "fe2dd6cb150e79e61ce330e158cb5be8e80f0281de248fab1baab58fe90d2a72"
+    },
+    "traindata/train66.fhr": {
+     "url": "https://raw.githubusercontent.com/data-coeur/FHRMA/407a279ea55458b0512fd709646c5646dc2ef669/FHRMAdataset/traindata/train66.fhr",
+     "bytes": 79948,
+     "sha256": "40ca40872859f2768e1a16d4a781fd40b4a20d610cd3b474ebe83c07fa18c8eb"
+    }
+   }
+  }
+ }
+}

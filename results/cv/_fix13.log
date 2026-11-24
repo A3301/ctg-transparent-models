@@ -1,0 +1,34 @@
+2026-11-24 11:40:31 FIX13 start
+2026-11-24 11:42:19 figo_lr_W60 50 folds
+2026-11-24 11:42:23 transp_gam_W60 50 folds
+2026-11-24 11:42:24 transp_lr_W60 50 folds
+2026-11-24 11:44:03 figo_lr_ph715 50 folds
+2026-11-24 11:44:12 transp_gam_ph715 50 folds
+2026-11-24 11:44:12 transp_lr_ph715 50 folds
+2026-11-24 11:45:54 figo_lr_bdecf12 50 folds
+2026-11-24 11:46:03 transp_gam_bdecf12 50 folds
+2026-11-24 11:46:08 transp_lr_bdecf12 50 folds
+2026-11-24 11:47:47 figo_lr_apgar5 50 folds
+2026-11-24 11:47:58 transp_gam_apgar5 50 folds
+2026-11-24 11:48:04 transp_lr_apgar5 50 folds
+2026-11-24 11:49:22 figo_lr_all552 50 folds
+2026-11-24 11:49:42 transp_gam_all552 50 folds
+2026-11-24 11:49:46 transp_lr_all552 50 folds
+2026-11-24 11:50:56 figo_lr_W30 50 folds
+2026-11-24 11:51:23 transp_gam_W30 50 folds
+2026-11-24 11:51:27 transp_lr_W30 50 folds
+2026-11-24 11:52:28 figo_lr_W90 50 folds
+2026-11-24 11:53:01 transp_gam_W90 50 folds
+2026-11-24 11:53:04 transp_lr_W90 50 folds
+2026-11-24 11:53:59 figo_lr_S1_60 50 folds
+2026-11-24 11:54:29 transp_gam_S1_60 50 folds
+2026-11-24 11:54:30 transp_lr_S1_60 50 folds
+2026-11-24 11:55:43 transp_lr_nouc_W60 50 folds
+2026-11-24 11:55:43 transp_gam_noq_W60 50 folds
+2026-11-24 11:57:00 transp_lr_nohrv_W60 50 folds
+2026-11-24 11:57:01 transp_gam_nohrv_W60 50 folds
+2026-11-24 11:58:15 transp_gam_nouc_W60 50 folds
+2026-11-24 11:58:15 transp_lr_noq_W60 50 folds
+2026-11-24 11:58:59 hrv_lr_W60 50 folds
+2026-11-24 11:58:59 CV_DONE
+2026-11-24 12:06:23 FIX13_DONE

@@ -1,0 +1,35 @@
+2026-11-23 06:38:19 chain start
+06:38:19 filling cnn_ens_W60 (7/50)
+06:49:20 filling consist_fhrlinet (11/25)
+07:12:29 filling nesy_ens_W60 (38/50)
+FILL_DONE
+2026-11-23 07:23:40 consist_georgoulas done
+07:26:16 finished nesy_single_W60
+07:40:52 finished nesy_nologic_W60
+07:47:33 finished nesy_nocsup_W60
+07:48:31 finished nesy_rulesonly_W60
+08:04:57 finished nesy_ens_S1_60
+08:18:27 finished nesy_ens_W30
+08:35:46 finished nesy_ens_W90
+08:51:35 finished nesy_ens_ph715
+09:07:11 finished nesy_ens_bdecf12
+09:21:21 finished nesy_ens_apgar5
+09:41:01 finished nesy_ens_all552
+09:48:06 finished cnn_ens_S1_60
+09:53:01 finished cnn_ens_W30
+10:03:24 finished cnn_ens_W90
+10:10:48 finished cnn_ens_ph715
+10:17:03 finished cnn_ens_bdecf12
+10:22:38 finished cnn_ens_apgar5
+10:29:38 finished cnn_ens_all552
+10:29:39 finished figo_lr_S1_60
+10:29:39 finished figo_lr_W30
+10:29:40 finished figo_lr_W90
+10:29:40 finished figo_lr_ph715
+10:29:41 finished figo_lr_bdecf12
+10:29:41 finished figo_lr_apgar5
+10:29:42 finished figo_lr_all552
+10:45:25 finished nesyclin_ens_W60
+PHASE45_DONE
+FILL_DONE
+2026-11-23 10:45:33 CHAIN_DONE
